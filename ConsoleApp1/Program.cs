@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
 
+            int test = 123;
+            Console.WriteLine("Hello World!");
         }
     }
 }
