@@ -13,7 +13,6 @@ namespace ConsoleApp1
             int total = meal_cost_change + tip_percent + tax_percent;
             string total_cost = $"餐費總額為：{total}";
             Console.WriteLine(total_cost);
-            Console.WriteLine(total_cost);
         }
     }
 }
